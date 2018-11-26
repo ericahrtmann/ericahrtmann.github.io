@@ -1,0 +1,166 @@
+
+body {
+  font-family: 'Cantarell', Helvetica, Arial, sans-serif;
+ }
+
+p {
+  line-height: 1.5em;
+}
+
+a {
+  color: #005ca8;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #fcce31;
+}
+
+.nav {
+    position: fixed;
+    background-color: white;
+    width: 100%;
+}
+
+.topnav a {
+    float: left;
+    color: #fcce31;
+    text-align: center;
+    padding: 14px 16px;
+    font-size: 17px;
+    text-decoration: none;
+}
+
+
+.topnav a:hover {
+    color: #04c0e1;
+}
+
+
+.site-header {
+  text-align: center;
+  padding: 40px;
+}
+
+.site-header img {
+  text-align: center;
+  padding: 10px;
+}
+
+.site-header h3 {
+  color: #ff9124;
+  font-size: .75em;
+}
+
+.hook {
+  padding: 50px;
+  text-align: center;
+  background-color: #005ca8;
+}
+
+.hook p {
+  font-size: 2em;
+  color: #ffaeae;
+}
+
+.description {
+  background-color: white;
+}
+
+.description h1 {
+  text-align: center;
+  padding-top: 50px;
+  font-size: 48px;
+  color: #ffaeae;
+}
+
+.description p {
+  padding-right: 250px;
+  padding-left: 250px;
+  padding-bottom: 50px;
+  color: black;
+  font-size: 14px;
+  font-style: bold;
+  background-color: white;
+  text-align: center;
+}
+
+
+  .process {
+    background-color: #ffaeae;
+  }
+
+  .process h1 {
+    text-align: center;
+    padding-top: 50px;
+    font-size: 48px;
+    color: white;
+  }
+
+  .process p {
+    padding-right: 250px;
+    padding-left: 250px;
+    padding-bottom: 50px;
+    color: black;
+    font-size: 14px;
+    font-style: bold;
+    background-color: #ffaeae;
+    text-align: center;
+  }
+
+  .process h3 {
+    text-align: center;
+    padding-top: 20px;
+    font-size: 24px;
+    color: #005ca8;
+  }
+
+.process img {
+  max-width: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+  .video {
+    padding-left: 250px;
+  }
+
+  .citations h1 {
+    text-align: center;
+    padding-top: 50px;
+    font-size: 48px;
+    color: #ff9124;
+  }
+
+  .citations p {
+    padding-right: 250px;
+    padding-left: 250px;
+    padding-bottom: 50px;
+    color: black;
+    font-size: 14px;
+    font-style: bold;
+    text-align: center;
+  }
+
+  .erica {
+    background-color: #ffaeae;
+  }
+
+  .erica h1 {
+    text-align: center;
+    padding-top: 50px;
+    font-size: 48px;
+    color: white;
+  }
+
+  .erica p {
+    padding-right: 250px;
+    padding-left: 250px;
+    padding-bottom: 50px;
+    color: black;
+    font-size: 14px;
+    font-style: bold;
+    background-color: #ffaeae;
+    text-align: center;
+  }
